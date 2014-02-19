@@ -14,3 +14,6 @@ Written in C#, clean well commented (full) source code is part of the project
 For saving the player data I prefer to use this Unity plugin:
 
 http://u3d.as/content/icedev576/secure-store
+
+A complete working recreating of the original Flappy Bird can be found:
+https://github.com/icedev576/flappybird-devkit/blob/master/FlappyBird_recreated.apk
