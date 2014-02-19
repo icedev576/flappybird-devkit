@@ -3,6 +3,8 @@ Flappy Bird - Devkit (source code)
 
 This is a complete devkit for Unity 3D game engine for creating Flappy-Bird style games.
 
+It is working with Android, IOS, Windows Phone, and all other Unity target platform. But I only atteched an adMob advertizing client, which is for Android only, you can add more.
+
 The application can be purchased via Unity Asset Store (http://u3d.as/content/icedev576/???).
 
 This is a complete working game, but I used NGUI for the menu (start/score buttons), so I can not include it in this project, but there is help to do it with your code.
