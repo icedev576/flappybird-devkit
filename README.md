@@ -1,7 +1,9 @@
 Flappy Bird - Devkit (source code)
 =================
 
-This is a complete devkit for Unity 3D game engine for creating Flappy-Bird style games.
+This is a complete devkit for Unity 3D game engine (http://unity3d.com/) for creating Flappy-Bird style games.
+
+You can use the FREE version of the Unity the Professional version is not needed!
 
 It is working with Android, IOS, Windows Phone, and all other Unity target platform. But I only attached an adMob advertizing client, which is for Android only, you can add more.
 
