@@ -5,7 +5,9 @@ This is a complete devkit for Unity 3D game engine for creating Flappy-Bird styl
 
 It is working with Android, IOS, Windows Phone, and all other Unity target platform. But I only attached an adMob advertizing client, which is for Android only, you can add more.
 
-The application can be purchased via Unity Asset Store (http://u3d.as/content/icedev576/???).
+Unity version needed: 4.3.x, tested on 4.3.4.
+
+The application can be purchased via CodeCanyon (http://codecanyon.net/item/flappybird-devkit/7125494).
 
 This is a complete working game, but I used NGUI for the menu (start/score buttons), so I can not include it in this project, but there is help to do it with your code.
 
